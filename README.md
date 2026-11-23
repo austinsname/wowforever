@@ -1,6 +1,10 @@
 # Auto Clicker
 
-A simple auto clicker for Windows.
+A simple auto clicker for WoW Forever (Windows).
+
+## What it's for
+
+When the Horde population on WoW Forever is too high, you can get stuck on the character creation screen and can't get into Horde. This auto clicker keeps clicking for you so you can get through without clicking over and over yourself.
 
 ## How to use
 
