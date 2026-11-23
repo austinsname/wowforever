@@ -10,8 +10,9 @@ When the Horde population on WoW Forever is too high, you can get stuck on the c
 
 1. Click **Auto Clicker Char screen.exe**, then click the download button.
 2. Double-click the file to run it.
-3. Press **Q** to turn auto clicking **on**.
-4. Press **Q** again to turn it **off**.
+3. In WoW Forever, design your Horde character and pick a name.
+4. Press **Q** to turn auto clicking **on**, and leave it running until you're in.
+5. Once you're in, press **Q** again to turn it **off**.
 
 ## Note
 
